@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">CasinoGTD</string>
+    <string name="action_settings">Settings</string>
+    <string name="balance">com.toxik.soul.casinogtd.BALANCE</string>
+    <string name="balance_pref">com.toxik.soul.casinogtd.BALANCE_PREF</string>
+    <string name="default_balance_text">0</string>
+    <string name="increase_text">+</string>
+    <string name="decrease_text">-</string>
+    <string name="change_default_text">0</string>
+
+</resources>
